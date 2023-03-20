@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on some mini Projects XD
+- 🔭 I’m currently working on some mini Projects
 - 🌱 I’m currently learning ReactJs
 - 👯 I’m looking to collaborate on Training companies
 - 🤔 I’m looking for help with Experienced programmer
