@@ -6,7 +6,6 @@
 - 🤔 I’m looking for help with Experienced programmer
 - 💬 Ask me about some questions about js 
 - 📫 How to reach me: on discord Metti#8609 
-- 😄 Pronouns: ...
 - ⚡ Fun fact: although you're not a dog but life make you barking XD
 
 <!--
