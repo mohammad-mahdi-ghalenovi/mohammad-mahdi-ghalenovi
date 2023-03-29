@@ -9,4 +9,4 @@
  - |📫| How to reach me: on discord Metti#8609 |📫| 
  - |⚡| Fun fact: although you're not a dog but life make you barking XD |⚡|
 
-![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
+ 
