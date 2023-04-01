@@ -2,7 +2,7 @@
 
 <p align="left"> <img style="display: none;" src="https://komarev.com/ghpvc/?username=mettiuy&label=Profile%20views&color=0e75b6&style=flat" alt="mettiuy" /> </p>
 
-- 🔭 I’m currently working on **some mini Projects**
+- 🔭 I’m currently working on **music-website-project**
 
 - 🌱 I’m currently learning **JavaScript**
 
