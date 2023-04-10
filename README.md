@@ -9,7 +9,7 @@
 </h1>
  
 
-<div align="center" style="text-align: center;">
+<div align="center" style="text-align: center;line-height: 1rem;color: orange">
 currently learning <strong>JavaScript</strong> 
 <br />
 looking to collaborate on a <strong>Training company</strong>  
