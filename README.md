@@ -10,9 +10,7 @@
 
 - 🤝 I’m looking for help with **a Experienced programmer**
 
-- 💬 Ask me about **Js**
-
-- 📫 How to reach me **on discord Metti#8609**
+- 📫 You can reach me **on discord Metti#8609**
 
 - ⚡ Fun fact **although you're not a dog but life make you barking XD**
 
