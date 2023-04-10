@@ -9,12 +9,14 @@
 </h1>
  
 
+<div align="center" style="text-align: center;">
+-   currently learning **JavaScript**  -
 
--   currently learning **JavaScript**
+-   looking to collaborate on **a Training company**  -
 
--   looking to collaborate on **a Training company**
+-  You can reach me **on discord Metti#8609**  -
+</div>
 
--  You can reach me **on discord Metti#8609**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
