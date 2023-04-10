@@ -10,11 +10,11 @@
  
 
 <div align="center" style="text-align: center;">
--   currently learning **JavaScript**  -
-
--   looking to collaborate on **a Training company**  -
-
--  You can reach me **on discord Metti#8609**  -
+currently learning <strong>JavaScript</strong> 
+<br />
+looking to collaborate on a <strong>Training company</strong>  
+<br />
+You can reach me on discord <strong>Metti#8609</strong>
 </div>
 
 
