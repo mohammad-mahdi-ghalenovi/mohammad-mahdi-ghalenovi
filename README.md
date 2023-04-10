@@ -2,8 +2,8 @@
 
 <p align="left"> <img style="display: none;" src="https://komarev.com/ghpvc/?username=mettiuy&label=Profile%20views&color=0e75b6&style=flat" alt="mettiuy" /> </p>
 
-<h1>
-  Im Mahdi a FrontEnd Developer
+<h1 style="color: rgb(58, 120, 202);text-shadow: 0 0 2px;letter-spacing: 1px;">
+  Im Mahdi a FrontEnd <p style="color:">Developer</p>
 </h1>
  
 
