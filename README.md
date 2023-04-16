@@ -14,7 +14,7 @@
 <br />
 🌃 looking to collaborate on a <strong>Training company</strong> 🌃
 <br />
-🌀 You can reach me on discord <strong>Metti#8609</strong> 🌀
+🌀 You can reach me on Discord <strong>Metti#8609</strong> 🌀
 </div>
 
 
