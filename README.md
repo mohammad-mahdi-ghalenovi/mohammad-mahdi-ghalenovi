@@ -2,7 +2,7 @@
 
 <p align="center"> <img style="display: none;" src="https://komarev.com/ghpvc/?username=mettiuy&label=Profile%20views&color=0e75b6&style=flat" alt="mettiuy" /> </p>
 <div align="center" >
-    <img style="height:150px;width: 200px;border-radius: 20px;" src="https://camo.githubusercontent.com/8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966" />
+    <img style="height:250px;width: 600px;" src="https://www.pixel4k.com/wp-content/uploads/2019/03/aurora-borealis-town-4k_1551642871.jpg" />
 </div>
 <h1>
   Im Mahdi a FrontEnd Developer
@@ -10,11 +10,11 @@
  
 
 <div align="center" style="text-align: center;">
-currently learning <strong>JavaScript</strong> 
+🌇 currently learning <strong>JavaScript</strong> 🌇
 <br />
-looking to collaborate on a <strong>Training company</strong>  
+🌃 looking to collaborate on a <strong>Training company</strong> 🌃
 <br />
-You can reach me on discord <strong>Metti#8609</strong>
+🌀 You can reach me on discord <strong>Metti#8609</strong> 🌀
 </div>
 
 
