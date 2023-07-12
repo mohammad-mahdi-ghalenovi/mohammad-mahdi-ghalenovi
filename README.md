@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌇 currently learning JavaScript 🌇<br>🌀 You can reach me on Discord Metti#8609 🌀
+🌇 currently learning ReactJs 🌇<br>🌀 You can reach me on Discord Metti#8609 🌀
 
 
 ## 🌐 Socials:
