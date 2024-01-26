@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 👓 About Me:
 🌇 currently learning ReactJs 🌇<br>🌀 You can reach me on Discord Metti#8609 🌀
 
 
