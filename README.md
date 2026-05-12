@@ -1,5 +1,5 @@
 # 👓 About Me:
-🌇 currently learning numpy & pandas 🌇
+currently learning numpy & pandas 
 
 
 ## 🌐 Socials:
